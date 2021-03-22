@@ -34,7 +34,7 @@ public class Solution58I {
     // 2. 正则表达式
     public String reverseWords2(String s) {
         String ans = "";
-
+        String pattern = "\\s+";
 
         return ans;
     }
