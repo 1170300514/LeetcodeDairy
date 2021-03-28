@@ -5,6 +5,6 @@ public class Solution58II {
 
     }
     public String reverseLeftWords(String s, int n) {
-
+        return "";
     }
 }
